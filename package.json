@@ -1,0 +1,26 @@
+{
+  "name": "building-intellegence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:db": "node scripts/test-connection.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Furqaan77/building-intellegence.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Furqaan77/building-intellegence/issues"
+  },
+  "homepage": "https://github.com/Furqaan77/building-intellegence#readme",
+  "dependencies": {
+    "dotenv": "^18.0.7",
+    "mongodb": "^7.7.0"
+  }
+}
